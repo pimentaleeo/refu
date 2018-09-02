@@ -1,0 +1,128 @@
+h2 {
+color: rgb(3, 126, 40);
+padding: 20px;
+}
+
+nav {
+    border-color: 5px solid rgb(3, 126, 40);;
+    border-bottom: 5px solid rgb(3, 126, 40);;
+    border-top: 5px solid rgb(3, 126, 40);;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: rgb(3, 126, 40);
+    
+
+}
+
+#banner {
+    width: 99%;
+    height: 250px;
+    border-radius: 0%;
+    border: 2px solid rgb(3, 126, 40);;
+}
+
+#lat    {
+
+    border-radius: 0%;
+}
+
+aside {
+    position: absolute;
+    left: 0;
+    margin: 0px;
+    width: 300px;
+    border-right: 0vh black;
+    padding: 15px;
+    border-radius: 0%;
+    text-align: center;
+}
+section {
+    width: cal(100vw - 330px);
+    margin-left: 325px;
+    padding: 0 50px 0 30px;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+h1 {
+    color: rgb(3, 126, 40);
+    font-size: 45pt;
+    margin: 2%;
+    text-shadow: 3px -3px black;
+}
+
+h3, h2  {
+    color: rgb(238, 236, 236);
+    font-size: 22pt;
+    margin: 0%;
+    font-style: italic;
+    text-shadow: 2px -2px rgb(3, 126, 40);
+}
+
+a{
+    font-size: 22pt;
+    text-decoration: none;
+    color:rgb(3, 126, 40);
+}
+
+body {
+    background-color: rgb(206, 204, 202);
+    margin: 0;
+    font-family: Arial;
+}
+
+header {
+    background-color: rgba(151, 147, 146, 0);
+    text-align: center;
+    margin: 0px;
+    padding: 0%;
+}
+
+
+footer {
+    background-color: rgb(3, 126, 40);
+    padding: 12px;
+    text-align: center;
+    position: fixed     : 
+}
+
+button {
+    text-align: center;
+}
+
+#botao {
+    color: rgb(251, 251, 253);
+    width: 200px;
+    padding: 18px 0px;
+    font-size: 18px;
+    border-radius: 20px;
+    border: none;
+    background-color: black;
+    text-transform: uppercase;
+    padding: 10px;
+    border: 20px;
+
+}
+#inf{
+    width: 75px;
+    height: 75px;
+    border-radius: 10%;
+    padding: 50px;
+}
+
+#descricao {
+    width: 275px;
+    height: 210px;
+    position: relative;
+    border-radius: 10%;
+}
+.rr {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
